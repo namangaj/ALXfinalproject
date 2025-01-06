@@ -1,0 +1,27 @@
+/alx-final-project/glibc-2.28/build/stdlib/lshift.o: \
+ ../sysdeps/x86_64/lshift.S ../include/stdc-predef.h \
+ /alx-final-project/glibc-2.28/build/libc-modules.h \
+ ../include/libc-symbols.h /alx-final-project/glibc-2.28/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../sysdeps/x86_64/sysdep.h \
+ ../sysdeps/x86/sysdep.h ../sysdeps/generic/sysdep.h \
+ ../sysdeps/generic/dwarf2.h ../sysdeps/generic/asm-syntax.h
+
+../include/stdc-predef.h:
+
+/alx-final-project/glibc-2.28/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/alx-final-project/glibc-2.28/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/x86_64/sysdep.h:
+
+../sysdeps/x86/sysdep.h:
+
+../sysdeps/generic/sysdep.h:
+
+../sysdeps/generic/dwarf2.h:
+
+../sysdeps/generic/asm-syntax.h:
